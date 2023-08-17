@@ -1,0 +1,3 @@
+In this SQL case study, we delve into a comprehensive analysis of a retail business's data mart, focusing on two primary platforms: "Retail" and "Shopify." 
+The study spans a three-year period, from 2018 to 2020, and covers crucial aspects such as regional performance, sales trends, transactional patterns, 
+and customer demographics.
